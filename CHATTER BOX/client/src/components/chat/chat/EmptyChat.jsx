@@ -46,8 +46,9 @@ const EmptyChat = () => {
             <Container>
                 <Image src={emptyChatImage} alt="empty" />
                 <Title>CHATTER BOX</Title>
-                <SubTitle>Now send and receive messages without keeping your phone online.</SubTitle>
-                <SubTitle>Use Chatter Box on up to 4 linked devices and 1 phone at the same time. </SubTitle>
+                
+                <SubTitle>Welcome to our chatting app!  </SubTitle>
+                <SubTitle>Now send and receive messages without keeping your phone number.</SubTitle>
                 <StyledDivider />
             </Container>
         </Component>

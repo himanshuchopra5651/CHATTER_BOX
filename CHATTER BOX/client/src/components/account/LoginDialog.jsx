@@ -86,9 +86,8 @@ const LoginDialog = () => {
                 <Container>
                     <Title>To use CHATTER BOX on your computer:</Title>
                     <StyledList>
-                        <ListItem>1. Open CHATTER BOX on your phone</ListItem>
-                        <ListItem>2. Tap Menu Settings and select CHATTER BOX</ListItem>
-                        <ListItem>3. Point your phone to this screen to capture the code</ListItem>
+                        <ListItem>Welcome to our chatting app! To sign in, simply use your Gmail account credentials below. We prioritize your convenience and security by leveraging Gmail's trusted authentication system for seamless login. Your privacy and data security are paramount to us, and by using Gmail login, we ensure a secure and hassle-free experience for you.</ListItem>
+                       
                     </StyledList>
                 </Container>
                 <Box style={{position:'relative'}}>
