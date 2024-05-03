@@ -5,7 +5,7 @@ const ConversationSchema = new mongoose.Schema({
         type: Array
     },
     message: {
-        type: String 
+        type: String
     }},
     {
         timestamps: true
